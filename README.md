@@ -40,7 +40,7 @@ AZURE_OPENAI_API_KEY="your-api-key"
 
 ---
 
-## Quick Start (The Unified Pipeline)
+## Quick Start
 
 The `run_pipeline.py` script automates both dataset generation and model evaluation in one command.
 
